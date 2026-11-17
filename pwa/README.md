@@ -15,12 +15,16 @@ Los códigos de mi taller de _Progressive Web Apps_ en _YouTube_. Convertimos un
 
 Todo el taller, en orden, está en su [lista de reproducción](https://www.youtube.com/playlist?list=PLvq-jIkSeTUYIw8CP2AP7QJs4GeeZdvs6).
 
+## Mis apuntes
+
+Todo el taller explicado paso a paso, con el código de cada archivo y lo que cambió desde 2018: [jonmircha.com/pwa](https://jonmircha.com/pwa).
+
 ## Cómo probarlo
 
 Un _service worker_ solo se registra en un sitio con _HTTPS_ o en `localhost`, así que abrir el `index.html` con doble clic no basta: sírvelo desde un servidor local. En el taller uso _Apache_; cualquier otro funciona igual, por ejemplo:
 
 ```bash
-cd pwas
+cd pwa
 python3 -m http.server 8080
 ```
 
@@ -30,7 +34,7 @@ Abre `http://localhost:8080` y, en las herramientas de desarrollo de _Chrome_, e
 
 ## Funcionando
 
-Así se ve publicado en _GitHub Pages_: https://jonmircha.github.io/youtube-talleres/pwas/
+Así se ve publicado en _GitHub Pages_: https://jonmircha.github.io/youtube-talleres/pwa/
 
 En el video lo publico desde la rama `gh-pages`. Hoy _GitHub Pages_ también publica desde `main`, y así se publica este repositorio.
 

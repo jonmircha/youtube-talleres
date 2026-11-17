@@ -2,13 +2,13 @@
 
 Hola, soy tu amigo y docente digital **Jonathan MirCha**, bienvenid@s a mis talleres.
 
-En este repositorio encontrarás los códigos de los cursos y talleres cortos de mi canal de [_YouTube_](https://youtube.com/@jonmircha): un tema puntual, resuelto en unos cuantos videos de pocos minutos. Cada taller vive en su propia carpeta, con su _README_.
+En este repositorio encontrarás los códigos de los talleres de mi canal de [_YouTube_](https://youtube.com/@jonmircha). Cada uno resuelve un tema puntual: algunos en una serie de videos cortos y otros en un solo video, largo y de principio a fin. Cada taller vive en su propia carpeta, con su _README_.
 
 ## Talleres
 
-| Taller                                                                                                                         | Videos | Códigos          | Demo                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------ | :----: | ---------------- | -------------------------------------------------------------- |
-| [Taller _PWA_: convierte tu sitio web en aplicación](https://www.youtube.com/playlist?list=PLvq-jIkSeTUYIw8CP2AP7QJs4GeeZdvs6) |   6    | [`pwas`](./pwas) | [Ver demo](https://jonmircha.github.io/youtube-talleres/pwas/) |
+| Taller                                                                                                                         | Videos | Apuntes                           | Códigos        | Demo                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------ | :----: | --------------------------------- | -------------- | ------------------------------------------------------------- |
+| [Taller _PWA_: convierte tu sitio web en aplicación](https://www.youtube.com/playlist?list=PLvq-jIkSeTUYIw8CP2AP7QJs4GeeZdvs6) |   6    | [/pwa](https://jonmircha.com/pwa) | [`pwa`](./pwa) | [Ver demo](https://jonmircha.github.io/youtube-talleres/pwa/) |
 
 ## Cómo usar los códigos
 
