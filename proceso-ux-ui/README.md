@@ -27,7 +27,7 @@ Todo el curso, en orden, está en su [lista de reproducción](https://www.youtub
 ## El diseño
 
 - 🖼️ [El archivo de _Figma_ del proyecto](https://www.figma.com/design/8T65vTpkmTi9phvNafUNax/CV-Portafolio), con el boceto, los _wireframes_, la guía de estilos, los componentes, los tres _layouts_ y el prototipo.
-- 📦 [Los archivos `.fig` y el boceto](https://github.com/jonmircha/youtube-figma), por si quieres importarlos a tu cuenta.
+- 📦 [El archivo `.fig` y el boceto](figma), en la carpeta `figma/`: importa el `.fig` a tu cuenta para tener tu propia copia del diseño.
 
 ## Mis apuntes
 
@@ -43,6 +43,7 @@ Todo el curso, en orden, está en su [lista de reproducción](https://www.youtub
 | [`script.js`](script.js)   | El menú del teléfono y el envío del formulario de contacto.                                                                                             |
 | [`assets/`](assets)        | Las imágenes y los iconos.                                                                                                                              |
 | [`assets.zip`](assets.zip) | Los mismos _assets_ en un solo archivo, para empezar el proyecto desde cero, como en el video.                                                          |
+| [`figma/`](figma)          | El diseño: `CV-Portafolio.fig`, para importarlo a _Figma_, y `SketchCVPortafolio.jpg`, el boceto a mano de la clase 3.                                  |
 
 ## Cómo usarlo
 
